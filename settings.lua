@@ -5,7 +5,7 @@ data:extend(
       name = "seed",
       type = "int-setting",
       setting_type = "startup",
-      default_value = 123,
+      default_value = 113,
       order = "a[modifier]-a[seed]",
       minimum_value = 1,
       maximum_value = 1000000
