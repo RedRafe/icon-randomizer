@@ -17,6 +17,9 @@ local itemGroups = {
   "fluid-wagon",
   "gun",
   "item",
+  "rail-planner",
+  --"straight-rail",
+  --"curved-rail",
   "locomotive",
   "module",
   "projectile",
@@ -25,8 +28,8 @@ local itemGroups = {
   "resource",
   "spider-vehicle",
   "spidertron-remote",
-  "straight-rail",
-  "item-entity"
+  "item-entity",
+  "item-with-entity-data"
 }
 
 local resourceGroup = {
